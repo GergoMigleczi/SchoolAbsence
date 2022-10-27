@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/SchoolAbsence/bin/Debug/netcoreapp3.1/SchoolAbsence.deps.json
+/Users/migleczigergo/Projects/SchoolAbsence/bin/Debug/netcoreapp3.1/SchoolAbsence.runtimeconfig.json
+/Users/migleczigergo/Projects/SchoolAbsence/bin/Debug/netcoreapp3.1/SchoolAbsence.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/SchoolAbsence/bin/Debug/netcoreapp3.1/SchoolAbsence.dll
+/Users/migleczigergo/Projects/SchoolAbsence/bin/Debug/netcoreapp3.1/SchoolAbsence.pdb
+/Users/migleczigergo/Projects/SchoolAbsence/obj/Debug/netcoreapp3.1/SchoolAbsence.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/SchoolAbsence/obj/Debug/netcoreapp3.1/SchoolAbsence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/SchoolAbsence/obj/Debug/netcoreapp3.1/SchoolAbsence.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/SchoolAbsence/obj/Debug/netcoreapp3.1/SchoolAbsence.AssemblyInfo.cs
+/Users/migleczigergo/Projects/SchoolAbsence/obj/Debug/netcoreapp3.1/SchoolAbsence.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/SchoolAbsence/obj/Debug/netcoreapp3.1/SchoolAbsence.dll
+/Users/migleczigergo/Projects/SchoolAbsence/obj/Debug/netcoreapp3.1/SchoolAbsence.pdb
+/Users/migleczigergo/Projects/SchoolAbsence/obj/Debug/netcoreapp3.1/SchoolAbsence.genruntimeconfig.cache
